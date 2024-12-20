@@ -39,7 +39,7 @@
 #include <moveit_visual_tools/moveit_visual_tools.h>
 
 // MoveIt
-#include <moveit/planning_scene_monitor/planning_scene_monitor.h>
+#include <moveit/planning_scene_monitor/planning_scene_monitor.hpp>
 
 // C++
 #include <string>

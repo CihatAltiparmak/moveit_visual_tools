@@ -35,9 +35,9 @@
 #include <moveit_msgs/msg/collision_object.hpp>
 
 // MoveIt
-#include <moveit/robot_state/conversions.h>
-#include <moveit/collision_detection/collision_tools.h>
-#include <moveit/macros/console_colors.h>
+#include <moveit/robot_state/conversions.hpp>
+#include <moveit/collision_detection/collision_tools.hpp>
+#include <moveit/macros/console_colors.hpp>
 
 // Conversions
 #if __has_include(<tf2_eigen/tf2_eigen.hpp>)

@@ -31,8 +31,8 @@
 */
 
 // MoveIt
-#include <moveit/robot_state/conversions.h>
-#include <moveit/transforms/transforms.h>
+#include <moveit/robot_state/conversions.hpp>
+#include <moveit/transforms/transforms.hpp>
 
 // this package
 #include <moveit_visual_tools/imarker_robot_state.h>

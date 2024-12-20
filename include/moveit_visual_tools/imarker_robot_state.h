@@ -39,7 +39,7 @@
 #include <visualization_msgs/msg/interactive_marker_feedback.hpp>
 
 // MoveIt
-#include <moveit/robot_state/robot_state.h>
+#include <moveit/robot_state/robot_state.hpp>
 #include <moveit_visual_tools/moveit_visual_tools.h>
 
 // C++
